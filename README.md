@@ -1,2 +1,4 @@
-# Simple-javasript-quiz
-Simple javasript quiz
+
+#Simple capital of countries quiz
+
+
